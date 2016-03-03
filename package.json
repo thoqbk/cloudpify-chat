@@ -1,21 +1,21 @@
 {
-  "name": "Cloudpify",
+  "name": "cloudpify-chat",
   "version": "1.0.0",
-  "description": "A realtime and rest framework",
+  "description": "Audio, Video and Text Messages with HTML5 and Cloudpify",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://thoqbk@github.com/thoqbk/cloudpify.git"
+    "url": "https://thoqbk@github.com/thoqbk/cloudpify-chat.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thoqbk/cloudpify/issues"
+    "url": "https://github.com/thoqbk/chat-cloudpify/issues"
   },
-  "homepage": "https://github.com/thoqbk/cloudpify",
+  "homepage": "https://github.com/thoqbk/chat-cloudpify",
   "dependencies": {
     "chai": "^3.5.0",
     "express": "^4.13.1",
